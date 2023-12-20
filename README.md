@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">   
+  <a href="mailto:fernandoalvescamara@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00B9EC"></a>
+  <a href="https://www.linkedin.com/in/fernando-camara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B9EC"></a> 
+</p>
 
-<!--
-**flcamara/flcamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">📃 Github Stats</h2>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img alt="Fernando Camara Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flcamara&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180" />
+  <img alt="Fernando Camara Fire" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flcamara&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="160" />
+  <br/>
+</div>

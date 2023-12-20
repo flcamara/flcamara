@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-  <img alt="Fernando Camara Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flcamara&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="180" />
-  <img alt="Fernando Camara Fire" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flcamara&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="160" />
+  <img alt="Fernando Camara Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flcamara&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="160" />
+  <img alt="Fernando Camara Fire" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flcamara&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B9EC&icon_color=00B9EC" height="120" />
   <br/>
 </div>
